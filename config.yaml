@@ -1,0 +1,10 @@
+app:
+  port: :8006
+
+db:
+  driver: "mysql"
+  host: "localhost"
+  port: 3308
+  username: root
+  password: helloworld
+  database: testapp
